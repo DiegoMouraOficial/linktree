@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+html, body{
+    height: 100%;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+    color: rgb(0, 0, 0);
+    background-color: rgb(236, 236, 236);
+}
+
+.foto-principal {
+    width: 100px;
+    border-radius: 50%;
+    border: 3px solid rgb(191, 238, 185);
+    box-shadow: 0 0 20px white;
+}   
+
+h1 {
+    font-family:'Nunito', sans-serif;
+    font-weight: 100;
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+
+h2 {
+    font-size: 14px;
+}
+
+.profile {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.social {
+    display:flex;
+    justify-content: space-around;
+    list-style: none;
+    margin: 20px 0;
+}
+
+.social img {
+    width: 33px;
+}
+
+.links-list {
+    list-style: none
+}
+
+.links-list li  {
+    margin: 10px 20px;
+}
+
+
+.links-list li a {
+    display: block;
+    background: white;
+    padding: 10px;
+}
+
