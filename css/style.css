@@ -9,7 +9,7 @@ html, body{
 
 body {
     font-family: 'Nunito', sans-serif;
-    background: #94a89157;
+    background: #63726457;
     text-align: center;
 }
 
@@ -31,7 +31,7 @@ h1 {
 h2 {
     font-size: 16px;
     font-weight: lighter;
-    color: #FFF;
+    color: #000;
 }
 
 .profile {
@@ -59,9 +59,9 @@ h2 {
 
 .links-list li {
     display: block;
-    margin: 20px 10px;
+    margin: 10px 10px;
     border-style: solid;
-    border-radius: 10px;
+    border-radius: 25px;
     background: #00000000;
 }
 
@@ -75,8 +75,16 @@ h2 {
 }
 
 .links-list li a span {
-    color:#FFF;
+    color:#000;
     display: block;
     font-weight:lighter;
+}
+
+.footer{
+    font-size: 12px;
+    margin-top: 45px;
+    margin-bottom: 1px;
+    color:#657264;
+    text-align: center;
 }
 
