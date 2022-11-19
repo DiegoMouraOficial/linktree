@@ -7,7 +7,6 @@ possível fazer ele com o framework bootstrap.</p>
 <p align="center">
         <img src="img/linktree.jpg"alt="Projeto Basic LinkTree">
 </p>
-</br>
 
 <h3> 🤝 Faça sua Contribuição </h3>
 <p>
