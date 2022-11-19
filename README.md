@@ -4,11 +4,9 @@
 básico do HTML e CSS. Com conhecimento em JavaScript você pode aprimorar esse projeto. Também é
 possível fazer ele com o framework bootstrap.</p>
 
-<center>
-    <figure>
+<p align="center">
         <img src="img/linktree.jpg"alt="Projeto Basic LinkTree">
-    </figure>
-</center>
+</p>
 
 <h3> 🤝 Faça sua Contribuição </h3>
 <p>
