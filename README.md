@@ -16,6 +16,17 @@ https://programmercodeoficial.github.io/0002-LinkTree/
         <img src="img/linktree.jpg"alt="Projeto Basic LinkTree">
 </p>
 
+## :stuck_out_tongue_winking_eye: Qual foi o objetivo?
+<p> Treinar HTML e CSS básico.</p>
+<ul>
+  <li>CSS gradiente.</li>
+  <li>Instalando fontes (google fontes)</li>
+  <li>Entendo o modo resposivo (inspecionar) </li>
+  <li>Introdução ao Flexbox</li>
+  <li>Entendo o display inline e display block</li>
+  <li>Entendo a tag span</li>
+</ul>
+
 <h3> 🤝 Faça sua Contribuição </h3>
 <p>
 Este repositório foi criado para fins de estudo. Fique a vontade para contribuir!
