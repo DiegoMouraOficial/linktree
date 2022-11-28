@@ -24,7 +24,7 @@ https://programmercodeoficial.github.io/0002-LinkTree/
   <li>Entendo o modo resposivo (inspecionar). </li>
   <li>Introdução ao Flexbox.</li>
   <li>Entendo o display inline e display block.</li>
-  <li>Entendo a tag Span.</li>
+  <li>Entendo a tag SPAN.</li>
 </ul>
 
 ## 🤝 Faça sua Contribuição
