@@ -20,14 +20,14 @@ https://programmercodeoficial.github.io/0002-LinkTree/
 <p> Treinar HTML e CSS básico.</p>
 <ul>
   <li>CSS gradiente.</li>
-  <li>Instalando fontes (google fontes)</li>
-  <li>Entendo o modo resposivo (inspecionar) </li>
-  <li>Introdução ao Flexbox</li>
-  <li>Entendo o display inline e display block</li>
-  <li>Entendo a tag span</li>
+  <li>Instalando fontes (google fontes).</li>
+  <li>Entendo o modo resposivo (inspecionar). </li>
+  <li>Introdução ao Flexbox.</li>
+  <li>Entendo o display inline e display block.</li>
+  <li>Entendo a tag Span.</li>
 </ul>
 
-<h3> 🤝 Faça sua Contribuição </h3>
+## 🤝 Faça sua Contribuição
 <p>
 Este repositório foi criado para fins de estudo. Fique a vontade para contribuir!
 
@@ -37,7 +37,7 @@ Se você conhece alguém que se identifica com esse conteúdo, não deixe de com
 
 </p></br>
 
-> <h3>Se possível</h3>
+> ## Se possível
 
 <p>
 
