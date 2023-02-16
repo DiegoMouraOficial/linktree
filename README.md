@@ -7,9 +7,6 @@ possível fazer ele com o framework bootstrap.</p>
 
 <p align="center"> 👇 Copie e cole o link no seu navegador, para visualizar o projeto. 👇</p>
 
-```
-https://programmercodeoficial.github.io/0002-LinkTree/
-```
 <br>
 
 <p align="center">
